@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sabbapxakadze/sabbapxakadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=520&lines=Hi%2C+I'm+Saba;I+write+TypeScript;I+build+with+React;I+solve+problems+on+LeetCode" alt="Typing animation" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://skillicons.dev/icons?i=ts,react" alt="TypeScript and React" />
+
+  <br><br>
+
+  <a href="https://leetcode.com/u/snowka49">
+    <img src="https://leetcard.jacoblin.cool/snowka49?theme=dark&ext=heatmap" alt="LeetCode stats" />
+  </a>
+
+</div>
