@@ -4,12 +4,6 @@
 
 </div>
 
-## About me
-
-- I write TypeScript and build interfaces with React
-- I practice algorithms and data structures on LeetCode
-- I like clean, readable code
-
 ## Tech stack
 
 <div align="center">
@@ -33,11 +27,10 @@
 
 </div>
 
-## GitHub stats
+## Most used languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sabbapxakadze&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbapxakadze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
 </div>
